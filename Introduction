@@ -1,0 +1,5 @@
+Monitoring environmental conditions such as temperature and humidity is essential in various fields, from agriculture and healthcare to home automation and weather forecasting. This project focuses on designing a simple yet effective temperature and humidity monitoring system using an Arduino microcontroller and a DHT sensor (such as DHT11 or DHT22).
+
+The DHT sensor is a low-cost digital sensor capable of providing accurate readings of ambient temperature and relative humidity. When connected to an Arduino, it allows real-time data acquisition and display, making it ideal for educational purposes, DIY electronics, and practical applications like greenhouse monitoring or climate control systems.
+
+In this project, the sensor collects data from the surrounding environment, which the Arduino processes and displays on a serial monitor or an LCD screen. This hands-on implementation not only demonstrates the practical use of sensors and microcontrollers but also introduces basic concepts in embedded systems, data acquisition, and environmental monitoring.
